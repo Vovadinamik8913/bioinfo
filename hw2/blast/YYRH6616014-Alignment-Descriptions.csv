@@ -1,0 +1,18 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Homo sapiens protein O-mannosyltransferase 1 (POMT1), transcript variant 2, mRNA",Homo sapiens,5646,5646,100%,0.0,100.00,3057,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/NM_001077365.2?report=genbank&log$=nucltop&blast_rank=1&RID=YYRH6616014"",""NM_001077365.2"")"
+"PREDICTED: Pan paniscus protein O-mannosyltransferase 1 (POMT1), transcript variant X6, mRNA",Pan paniscus,5428,5428,100%,0.0,98.73,5147,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_003822389.5?report=genbank&log$=nucltop&blast_rank=2&RID=YYRH6616014"",""XM_003822389.5"")"
+"PREDICTED: Pan troglodytes protein O-mannosyltransferase 1 (POMT1), transcript variant X42, mRNA",Pan troglodytes,5384,5384,100%,0.0,98.56,3050,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_063787292.1?report=genbank&log$=nucltop&blast_rank=3&RID=YYRH6616014"",""XM_063787292.1"")"
+"PREDICTED: Gorilla gorilla gorilla protein O-mannosyltransferase 1 (POMT1), transcript variant X4, mRNA",Gorilla gorilla gorilla,5352,5352,100%,0.0,98.21,3351,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_004048757.5?report=genbank&log$=nucltop&blast_rank=4&RID=YYRH6616014"",""XM_004048757.5"")"
+"PREDICTED: Pongo pygmaeus protein O-mannosyltransferase 1 (POMT1), transcript variant X2, mRNA",Pongo pygmaeus,5012,5012,100%,0.0,96.20,3096,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_054500608.2?report=genbank&log$=nucltop&blast_rank=5&RID=YYRH6616014"",""XM_054500608.2"")"
+"PREDICTED: Hylobates moloch protein O-mannosyltransferase 1 (POMT1), transcript variant X4, mRNA",Hylobates moloch,4981,4981,100%,0.0,96.10,3065,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_032165459.2?report=genbank&log$=nucltop&blast_rank=6&RID=YYRH6616014"",""XM_032165459.2"")"
+"PREDICTED: Nomascus leucogenys protein O-mannosyltransferase 1 (POMT1), transcript variant X2, mRNA",Nomascus leucogenys,4957,4957,100%,0.0,95.87,3321,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_003276776.4?report=genbank&log$=nucltop&blast_rank=7&RID=YYRH6616014"",""XM_003276776.4"")"
+"PREDICTED: Symphalangus syndactylus protein O-mannosyltransferase 1 (POMT1), transcript variant X2, mRNA",Symphalangus syndactylus,4697,4697,95%,0.0,95.90,4407,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_063635737.1?report=genbank&log$=nucltop&blast_rank=8&RID=YYRH6616014"",""XM_063635737.1"")"
+"PREDICTED: Macaca thibetana thibetana protein O-mannosyltransferase 1 (POMT1), transcript variant X1, mRNA",Macaca thibetana thibetana,4636,4636,100%,0.0,94.08,3449,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_050759912.1?report=genbank&log$=nucltop&blast_rank=9&RID=YYRH6616014"",""XM_050759912.1"")"
+"PREDICTED: Macaca mulatta protein O-mannosyltransferase 1 (POMT1), transcript variant X3, mRNA",Macaca mulatta,4610,4610,99%,0.0,94.10,3042,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_015116538.3?report=genbank&log$=nucltop&blast_rank=10&RID=YYRH6616014"",""XM_015116538.3"")"
+"PREDICTED: Cercocebus atys protein-O-mannosyltransferase 1 (POMT1), transcript variant X4, mRNA",Cercocebus atys,4604,4604,100%,0.0,93.91,3168,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_012077876.1?report=genbank&log$=nucltop&blast_rank=11&RID=YYRH6616014"",""XM_012077876.1"")"
+
+
+
+		
+
+
